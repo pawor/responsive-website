@@ -67,6 +67,7 @@ html{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    box-shadow: 1rem 1rem 1rem #000;
 }
 .card-img{
     width: 100%;
